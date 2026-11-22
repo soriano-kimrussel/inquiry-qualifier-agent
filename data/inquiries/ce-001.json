@@ -1,0 +1,13 @@
+{
+  "id": "ce-001",
+  "business": "clinic-example",
+  "channel": "web_form",
+  "receivedAt": "2026-11-20T08:55:00Z",
+  "from": {
+    "name": "Olivia Grant",
+    "email": "olivia.grant@example.com",
+    "phone": "555-0131"
+  },
+  "subject": "New patient",
+  "message": "Hello, are you accepting new patients? I'd like to register and book a routine check-up, ideally on a weekday morning. What do I need to bring?"
+}

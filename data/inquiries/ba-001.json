@@ -1,0 +1,13 @@
+{
+  "id": "ba-001",
+  "business": "brainy-actz",
+  "channel": "web_form",
+  "receivedAt": "2026-11-16T09:12:00Z",
+  "from": {
+    "name": "Dana Whitlock",
+    "email": "dana.whitlock@example.com",
+    "phone": "555-0101"
+  },
+  "subject": "Birthday booking for 6",
+  "message": "Hi! I'd like to book an escape room for my sister's 30th birthday on 2026-12-05. There will be 6 of us, all adults. Do you have an evening slot, and how much is it per person?"
+}

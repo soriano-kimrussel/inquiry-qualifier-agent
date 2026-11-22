@@ -1,0 +1,13 @@
+{
+  "id": "st-004",
+  "business": "sidecar-tours",
+  "channel": "email",
+  "receivedAt": "2026-11-18T12:20:00Z",
+  "from": {
+    "name": "Bill Navarro",
+    "email": "bill.navarro@example.com",
+    "phone": "555-0114"
+  },
+  "subject": "Sidecar repair",
+  "message": "Do you guys repair sidecars? I have a 1974 rig with a cracked frame mount and I need someone to weld it and sell me a replacement wheel bearing."
+}

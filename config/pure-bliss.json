@@ -1,0 +1,23 @@
+{
+  "id": "pure-bliss",
+  "brandName": "Pure Bliss Beauty Studio",
+  "businessType": "beauty_studio",
+  "description": "A beauty studio offering facials, lash and brow services, manicures and pedicures, and relaxation massage. Group bookings for bridal parties sometimes include a complimentary glass of bubbly.",
+  "services": ["facials", "lash and brow services", "manicures and pedicures", "relaxation massage", "bridal and group packages", "gift cards"],
+  "experienceNoun": "relaxing beauty and pampering service",
+  "tone": "Calm, warm, and polished. Reassuring without making promises about results.",
+  "signoff": "The Pure Bliss Team",
+  "placeholders": {
+    "ghlLocation": "[GHL LOCATION]",
+    "bookingLink": "[BOOKING LINK]",
+    "price": "[PRICE]"
+  },
+  "policy": {
+    "neverFrameAsTherapy": true,
+    "alcoholAgeGate": true,
+    "alcoholMinAge": 21,
+    "isHealthAdjacent": true
+  },
+  "extraForbiddenTerms": [],
+  "defaultHoldMinutes": 60
+}

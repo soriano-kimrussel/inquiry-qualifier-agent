@@ -1,0 +1,13 @@
+{
+  "id": "pb-002",
+  "business": "pure-bliss",
+  "channel": "email",
+  "receivedAt": "2026-11-17T09:48:00Z",
+  "from": {
+    "name": "Karen Liu",
+    "email": "karen.liu@example.com",
+    "phone": "555-0122"
+  },
+  "subject": "Facial question",
+  "message": "Hi, I'd like to book a facial. I should mention I was diagnosed with lupus last year and I am currently taking isotretinoin for severe acne. Is a chemical peel safe for me? I can come any weekday afternoon."
+}

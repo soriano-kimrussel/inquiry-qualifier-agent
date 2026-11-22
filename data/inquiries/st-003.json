@@ -1,0 +1,12 @@
+{
+  "id": "st-003",
+  "business": "sidecar-tours",
+  "channel": "web_form",
+  "receivedAt": "2026-11-18T16:45:00Z",
+  "from": {
+    "name": "Lena Fischer",
+    "email": "lena.fischer@example.com"
+  },
+  "subject": "Winery tasting tour",
+  "message": "Hello! Could I book the winery tasting tour for two for next Saturday? It's our anniversary. Please confirm the booking and let me know the price."
+}

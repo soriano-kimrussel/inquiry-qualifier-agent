@@ -1,0 +1,12 @@
+{
+  "id": "ba-002",
+  "business": "brainy-actz",
+  "channel": "email",
+  "receivedAt": "2026-11-16T11:40:00Z",
+  "from": {
+    "name": "Marcus Oyelaran",
+    "email": "marcus.o@example.com"
+  },
+  "subject": "First timers",
+  "message": "Hello, we've never done an escape room before. How long does a game last, and is there a room that's good for beginners? Also can we bring a group of 4?"
+}

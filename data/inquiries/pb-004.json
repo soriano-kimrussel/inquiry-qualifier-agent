@@ -1,0 +1,13 @@
+{
+  "id": "pb-004",
+  "business": "pure-bliss",
+  "channel": "web_form",
+  "receivedAt": "2026-11-19T20:30:00Z",
+  "from": {
+    "name": "Derek Stone",
+    "email": "derek.stone@example.com",
+    "phone": "555-0124"
+  },
+  "subject": "Massage instead of physio",
+  "message": "My doctor wants me to do physiotherapy but I'd rather come to you. Can your massage therapy cure my chronic back pain? I want to book a course of treatment sessions as my therapy."
+}

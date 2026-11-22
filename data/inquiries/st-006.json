@@ -1,0 +1,13 @@
+{
+  "id": "st-006",
+  "business": "sidecar-tours",
+  "channel": "web_form",
+  "receivedAt": "2026-11-19T15:10:00Z",
+  "from": {
+    "name": "Hannah Brooks",
+    "email": "hannah.brooks@example.com",
+    "phone": "555-0116"
+  },
+  "subject": "City tour question",
+  "message": "Hi, is the city highlights tour suitable for someone who has never been on a motorcycle? And how many passengers fit in one sidecar? Thinking of coming with my husband sometime in January."
+}

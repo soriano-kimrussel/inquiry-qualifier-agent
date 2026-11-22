@@ -1,0 +1,31 @@
+{
+  "name": "inquiry-qualifier-agent",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reusable inbound-inquiry qualification and booking follow-up agent with guardrails, human approval, and simulated integrations.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "pipeline": "tsx src/cli.ts pipeline",
+    "serve": "tsx src/server.ts",
+    "eval": "tsx src/eval.ts",
+    "check": "tsx src/cli.ts check",
+    "list": "tsx src/cli.ts list",
+    "approve": "tsx src/cli.ts approve",
+    "reject": "tsx src/cli.ts reject",
+    "test": "tsx --test tests/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "zod": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "brainy-actz",
+  "brandName": "Brainy Actz Escape Rooms",
+  "businessType": "escape_room",
+  "description": "Themed escape rooms for friends, families, birthday parties, and corporate team events. Groups solve puzzles together against the clock.",
+  "services": ["escape room bookings", "birthday party packages", "corporate team-building events", "gift vouchers"],
+  "experienceNoun": "fun, puzzle-solving escape room experience",
+  "tone": "Playful, energetic, and welcoming. Short sentences. A light puzzle pun is fine; never more than one.",
+  "signoff": "The Brainy Actz Team",
+  "placeholders": {
+    "ghlLocation": "[GHL LOCATION]",
+    "bookingLink": "[BOOKING LINK]",
+    "price": "[PRICE]"
+  },
+  "policy": {
+    "neverFrameAsTherapy": true,
+    "alcoholAgeGate": false,
+    "alcoholMinAge": 21,
+    "isHealthAdjacent": false
+  },
+  "extraForbiddenTerms": ["treatment"],
+  "defaultHoldMinutes": 75
+}

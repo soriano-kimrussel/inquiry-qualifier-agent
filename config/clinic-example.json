@@ -1,0 +1,23 @@
+{
+  "id": "clinic-example",
+  "brandName": "Example Family Clinic",
+  "businessType": "clinic",
+  "description": "A fictional general practice clinic, included to show the same engine running under a stricter health-adjacent policy. The front desk handles appointment requests and general questions only.",
+  "services": ["new patient appointments", "routine check-up appointments", "general front-desk questions"],
+  "experienceNoun": "front-desk appointment service",
+  "tone": "Professional, calm, and brief. Never clinical advice; the front desk only schedules.",
+  "signoff": "Example Family Clinic Front Desk",
+  "placeholders": {
+    "ghlLocation": "[GHL LOCATION]",
+    "bookingLink": "[BOOKING LINK]",
+    "price": "[PRICE]"
+  },
+  "policy": {
+    "neverFrameAsTherapy": false,
+    "alcoholAgeGate": false,
+    "alcoholMinAge": 21,
+    "isHealthAdjacent": true
+  },
+  "extraForbiddenTerms": [],
+  "defaultHoldMinutes": 30
+}

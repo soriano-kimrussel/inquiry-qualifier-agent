@@ -1,0 +1,13 @@
+{
+  "id": "st-002",
+  "business": "sidecar-tours",
+  "channel": "email",
+  "receivedAt": "2026-11-17T10:02:00Z",
+  "from": {
+    "name": "Greg Halvorsen",
+    "email": "greg.halvorsen@example.com",
+    "phone": "555-0112"
+  },
+  "subject": "Birthday surprise",
+  "message": "I want to surprise my son with the brewery tour for his 19th birthday next month. It would be me, him, and two of his college friends. Can you confirm a Saturday afternoon for us?"
+}

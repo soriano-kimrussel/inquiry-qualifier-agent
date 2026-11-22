@@ -1,0 +1,13 @@
+{
+  "id": "pb-001",
+  "business": "pure-bliss",
+  "channel": "web_form",
+  "receivedAt": "2026-11-16T13:00:00Z",
+  "from": {
+    "name": "Sofia Marchetti",
+    "email": "sofia.marchetti@example.com",
+    "phone": "555-0121"
+  },
+  "subject": "Bridal party lashes and nails",
+  "message": "Hi! I'm getting married and would like to book lashes and manicures for my bridal party of 5 on 2026-12-19, ideally in the morning. Do you do group packages?"
+}

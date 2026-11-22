@@ -1,0 +1,13 @@
+{
+  "id": "ba-004",
+  "business": "brainy-actz",
+  "channel": "email",
+  "receivedAt": "2026-11-17T19:22:00Z",
+  "from": {
+    "name": "Tom Brannigan",
+    "email": "tom.brannigan@example.com",
+    "phone": "555-0104"
+  },
+  "subject": "Very disappointed",
+  "message": "We came in last Saturday for our 4pm booking and waited 35 minutes because the previous group overran. Two of the puzzles were broken and the game master was not helpful. I want a full refund for all 5 tickets."
+}

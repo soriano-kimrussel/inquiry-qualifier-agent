@@ -1,0 +1,13 @@
+{
+  "id": "st-001",
+  "business": "sidecar-tours",
+  "channel": "web_form",
+  "receivedAt": "2026-11-16T14:30:00Z",
+  "from": {
+    "name": "Renee Castillo",
+    "email": "renee.castillo@example.com",
+    "phone": "555-0111"
+  },
+  "subject": "Brewery tour for 4",
+  "message": "Hi there, we'd love to book the brewery tour for 4 people on 2026-12-12. We are all over 21 (ages 27 to 34) and will bring ID. What times are available?"
+}

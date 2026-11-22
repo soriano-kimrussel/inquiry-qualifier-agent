@@ -1,0 +1,11 @@
+{
+  "id": "pb-003",
+  "business": "pure-bliss",
+  "channel": "chat",
+  "receivedAt": "2026-11-18T17:15:00Z",
+  "from": {
+    "name": "Jasmine Okafor",
+    "email": "jasmine.okafor@example.com"
+  },
+  "message": "Quick question - how much is a gel manicure and do you sell gift cards? Looking for a present for my mum."
+}

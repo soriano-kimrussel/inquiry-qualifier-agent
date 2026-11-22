@@ -1,0 +1,13 @@
+{
+  "id": "ba-003",
+  "business": "brainy-actz",
+  "channel": "web_form",
+  "receivedAt": "2026-11-17T08:05:00Z",
+  "from": {
+    "name": "Priya Raman",
+    "email": "priya.raman@example.com",
+    "phone": "555-0103"
+  },
+  "subject": "Group therapy session for our team",
+  "message": "Our HR lead suggested we use your escape room as a group therapy session for the team. Morale is low and we need something therapeutic that will heal the tension between departments. Can you run it as a therapy activity for 10 people next Friday?"
+}

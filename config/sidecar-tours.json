@@ -1,0 +1,23 @@
+{
+  "id": "sidecar-tours",
+  "brandName": "Sidecar Tours",
+  "businessType": "tour",
+  "description": "Guided sightseeing tours in vintage-style motorcycle sidecars with a professional driver. Routes include city highlights, coastal rides, and brewery and winery tours.",
+  "services": ["city highlights sidecar tour", "coastal sunset tour", "brewery tour", "winery tasting tour", "private group charters"],
+  "experienceNoun": "guided sidecar sightseeing tour",
+  "tone": "Warm, adventurous, and upbeat. Friendly but clear about safety and requirements.",
+  "signoff": "The Sidecar Tours Crew",
+  "placeholders": {
+    "ghlLocation": "[GHL LOCATION]",
+    "bookingLink": "[BOOKING LINK]",
+    "price": "[PRICE]"
+  },
+  "policy": {
+    "neverFrameAsTherapy": false,
+    "alcoholAgeGate": true,
+    "alcoholMinAge": 21,
+    "isHealthAdjacent": false
+  },
+  "extraForbiddenTerms": [],
+  "defaultHoldMinutes": 120
+}
